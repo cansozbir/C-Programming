@@ -6,7 +6,7 @@
 int basamakbul(int n);
 void main()
 {
-    int sayi,x;
+    int sayi;
     printf("\nSayiyi Giriniz : ");
     scanf("%d",&sayi);
     printf("\n%d sayisi %d basamaklidir\n",sayi,basamakbul(sayi));
