@@ -3,7 +3,7 @@
 
 /// A ve B matrislerini toplayıp A nın ilk halini ve toplandıktan sonraki halini bastırınız
 /// ben burada ek olarak matrislere değer atamayı da elle yapmak istedim...
-void cizgi(x);
+
 void main()
 {
     int i,j,a,b,toplam[i][j];
